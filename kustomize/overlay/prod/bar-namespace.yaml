@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_15ebd295-ae89-4686-8ae7-ebd37e951b71
+    project-id: project_0cdefd3c-20e4-490e-8c33-6ac7087e82c7
+    project-name: xammy
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

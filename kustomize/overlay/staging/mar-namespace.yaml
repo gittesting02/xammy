@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_eb3af973-985a-4f70-8750-c7d9e9ac1176
+    project-id: project_0cdefd3c-20e4-490e-8c33-6ac7087e82c7
+    project-name: xammy
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
